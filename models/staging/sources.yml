@@ -3,7 +3,7 @@ version: 2
 sources: 
   - name: stackoverflow
     database: stackoverflow
-    schema: j_dev
+    schema: public
     tables:
       - name: comments
 
