@@ -1,0 +1,14 @@
+version: 2
+
+sources: 
+  - name: stackoverflow
+    database: stackoverflow
+    schema: j_dev
+    tables:
+      - name: comments
+
+      - name: post_history
+
+      - name: users
+
+      - name: votes
